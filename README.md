@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This project is abandoned.** It is no longer maintained, and issues and pull requests will not be answered. The repository is archived and kept read-only for reference.
+
 # Mailgun Utility scripts for operations
 
 ### Script #1: download_all_messages.py
